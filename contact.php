@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Datech // Home</title>
+	<title>Datech // Contact</title>
 	<link rel="stylesheet" type="text/css" href="css/style.reset.css">
 	<link rel="stylesheet" type="text/css" href="css/style.base.css">
 </head>
@@ -17,7 +17,7 @@
 		</ul>
 	</div>
 
-	<h1>Welkom</h1>
+	<h1>Contact</h1>
 </div>
 </body>
 </html>

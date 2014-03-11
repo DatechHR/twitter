@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Datech // Home</title>
+	<title>Datech // Over DatechHR</title>
 	<link rel="stylesheet" type="text/css" href="css/style.reset.css">
 	<link rel="stylesheet" type="text/css" href="css/style.base.css">
 </head>
@@ -17,7 +17,7 @@
 		</ul>
 	</div>
 
-	<h1>Welkom</h1>
+	<h1>Over DatechHR</h1>
 </div>
 </body>
 </html>
